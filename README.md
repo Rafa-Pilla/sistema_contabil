@@ -1,10 +1,10 @@
-# 📊 Agregador de Dados para Imposto de Renda e Contabilidade Pessoal (Excel)
+# Anti-hunting - Agregador de Dados para Imposto de Renda e Contabilidade Pessoal (Excel)
 
 Projeto prático com o objetivo de centralizar, padronizar e validar informações essenciais para a **declaração de Imposto de Renda (IR)** e o controle de **contabilidade pessoal** em uma única planilha do Microsoft Excel.
 
 ---
 
-## 🗂️ Estrutura da Planilha
+## Estrutura da Planilha
 
 A pasta de trabalho é composta por **4 abas** (sendo as 3 principais voltadas ao preenchimento/consolidação e 1 de apoio):
 
@@ -17,7 +17,7 @@ A pasta de trabalho é composta por **4 abas** (sendo as 3 principais voltadas a
 
 ---
 
-## ✅ Validações e Regras Aplicadas
+## Validações e Regras Aplicadas
 
 - **Listas Suspensas (`Data Validation`):**
   - Respostas padronizadas (`Sim`, `Não`) para campos de confirmação/indicadores.
